@@ -1,0 +1,102 @@
+c:\users\thuong tin\documents\visual studio 2012\Projects\AutoType\AutoType\bin\Debug\AutoType.exe.config
+c:\users\thuong tin\documents\visual studio 2012\Projects\AutoType\AutoType\bin\Debug\AutoType.exe
+c:\users\thuong tin\documents\visual studio 2012\Projects\AutoType\AutoType\bin\Debug\AutoType.pdb
+c:\users\thuong tin\documents\visual studio 2012\Projects\AutoType\AutoType\obj\x86\Debug\AutoType.Properties.Resources.resources
+c:\users\thuong tin\documents\visual studio 2012\Projects\AutoType\AutoType\obj\x86\Debug\AutoType.csproj.GenerateResource.Cache
+c:\users\thuong tin\documents\visual studio 2012\Projects\AutoType\AutoType\obj\x86\Debug\AutoType.exe
+c:\users\thuong tin\documents\visual studio 2012\Projects\AutoType\AutoType\obj\x86\Debug\AutoType.pdb
+C:\Users\Thuong Tin\documents\visual studio 2012\Projects\AutoType\AutoType\obj\x86\Debug\AutoType.SmartForm.resources
+C:\Users\Thuong Tin\documents\visual studio 2012\Projects\AutoType\AutoType\obj\x86\Debug\AutoType.AutoType.resources
+C:\Users\Thuong Tin\documents\visual studio 2012\Projects\AutoType\AutoType\obj\x86\Debug\AutoType.LicenseForm.resources
+C:\Users\Thuong Tin\documents\visual studio 2012\Projects\AutoType\AutoType\bin\Debug\Telerik.WinControls.dll
+C:\Users\Thuong Tin\documents\visual studio 2012\Projects\AutoType\AutoType\bin\Debug\Telerik.WinControls.UI.dll
+C:\Users\Thuong Tin\documents\visual studio 2012\Projects\AutoType\AutoType\bin\Debug\TelerikCommon.dll
+C:\Users\Thuong Tin\documents\visual studio 2012\Projects\AutoType\AutoType\bin\Debug\Telerik.WinControls.xml
+C:\Users\Thuong Tin\documents\visual studio 2012\Projects\AutoType\AutoType\bin\Debug\Telerik.WinControls.UI.xml
+C:\Users\Thuong Tin\documents\visual studio 2012\Projects\AutoType\AutoType\obj\x86\Debug\AutoType.csprojResolveAssemblyReference.cache
+D:\Dropbox\RP\Dropbox\AutoType\AutoType\bin\Debug\AutoType.exe.config
+D:\Dropbox\RP\Dropbox\AutoType\AutoType\bin\Debug\AutoType.exe
+D:\Dropbox\RP\Dropbox\AutoType\AutoType\bin\Debug\AutoType.pdb
+D:\Dropbox\RP\Dropbox\AutoType\AutoType\obj\x86\Debug\AutoType.csprojResolveAssemblyReference.cache
+D:\Dropbox\RP\Dropbox\AutoType\AutoType\obj\x86\Debug\AutoType.AutoType.resources
+D:\Dropbox\RP\Dropbox\AutoType\AutoType\obj\x86\Debug\AutoType.LicenseForm.resources
+D:\Dropbox\RP\Dropbox\AutoType\AutoType\obj\x86\Debug\AutoType.Properties.Resources.resources
+D:\Dropbox\RP\Dropbox\AutoType\AutoType\obj\x86\Debug\AutoType.SmartForm.resources
+D:\Dropbox\RP\Dropbox\AutoType\AutoType\obj\x86\Debug\AutoType.csproj.GenerateResource.Cache
+D:\Dropbox\RP\Dropbox\AutoType\AutoType\obj\x86\Debug\AutoType.exe
+D:\Dropbox\RP\Dropbox\AutoType\AutoType\obj\x86\Debug\AutoType.pdb
+D:\Dropbox\RP\Dropbox\AutoType\AutoType\bin\Debug\Telerik.WinControls.dll
+D:\Dropbox\RP\Dropbox\AutoType\AutoType\bin\Debug\Telerik.WinControls.UI.dll
+D:\Dropbox\RP\Dropbox\AutoType\AutoType\bin\Debug\TelerikCommon.dll
+D:\Dropbox\RP\Dropbox\AutoType .Net 4.0\AutoType\bin\Debug\AutoType.exe.config
+D:\Dropbox\RP\Dropbox\AutoType .Net 4.0\AutoType\bin\Debug\AutoType.exe
+D:\Dropbox\RP\Dropbox\AutoType .Net 4.0\AutoType\bin\Debug\AutoType.pdb
+D:\Dropbox\RP\Dropbox\AutoType .Net 4.0\AutoType\bin\Debug\Telerik.WinControls.dll
+D:\Dropbox\RP\Dropbox\AutoType .Net 4.0\AutoType\bin\Debug\Telerik.WinControls.UI.dll
+D:\Dropbox\RP\Dropbox\AutoType .Net 4.0\AutoType\bin\Debug\TelerikCommon.dll
+D:\Dropbox\RP\Dropbox\AutoType .Net 4.0\AutoType\bin\Debug\Telerik.WinControls.xml
+D:\Dropbox\RP\Dropbox\AutoType .Net 4.0\AutoType\bin\Debug\Telerik.WinControls.UI.xml
+D:\Dropbox\RP\Dropbox\AutoType .Net 4.0\AutoType\obj\x86\Debug\AutoType.csprojResolveAssemblyReference.cache
+D:\Dropbox\RP\Dropbox\AutoType .Net 4.0\AutoType\obj\x86\Debug\AutoType.AutoType.resources
+D:\Dropbox\RP\Dropbox\AutoType .Net 4.0\AutoType\obj\x86\Debug\AutoType.LicenseForm.resources
+D:\Dropbox\RP\Dropbox\AutoType .Net 4.0\AutoType\obj\x86\Debug\AutoType.Properties.Resources.resources
+D:\Dropbox\RP\Dropbox\AutoType .Net 4.0\AutoType\obj\x86\Debug\AutoType.SmartForm.resources
+D:\Dropbox\RP\Dropbox\AutoType .Net 4.0\AutoType\obj\x86\Debug\AutoType.csproj.GenerateResource.Cache
+D:\Dropbox\RP\Dropbox\AutoType .Net 4.0\AutoType\obj\x86\Debug\AutoType.exe
+D:\Dropbox\RP\Dropbox\AutoType .Net 4.0\AutoType\obj\x86\Debug\AutoType.pdb
+D:\Dropbox\AutoType .Net 4.0\AutoType\bin\Debug\AutoType.exe.config
+D:\Dropbox\AutoType .Net 4.0\AutoType\bin\Debug\AutoType.exe
+D:\Dropbox\AutoType .Net 4.0\AutoType\bin\Debug\AutoType.pdb
+D:\Dropbox\AutoType .Net 4.0\AutoType\bin\Debug\Telerik.WinControls.xml
+D:\Dropbox\AutoType .Net 4.0\AutoType\bin\Debug\Telerik.WinControls.UI.xml
+D:\Dropbox\AutoType .Net 4.0\AutoType\obj\x86\Debug\AutoType.csprojResolveAssemblyReference.cache
+D:\Dropbox\AutoType .Net 4.0\AutoType\obj\x86\Debug\AutoType.AutoType.resources
+D:\Dropbox\AutoType .Net 4.0\AutoType\obj\x86\Debug\AutoType.LicenseForm.resources
+D:\Dropbox\AutoType .Net 4.0\AutoType\obj\x86\Debug\AutoType.Properties.Resources.resources
+D:\Dropbox\AutoType .Net 4.0\AutoType\obj\x86\Debug\AutoType.SmartForm.resources
+D:\Dropbox\AutoType .Net 4.0\AutoType\obj\x86\Debug\AutoType.csproj.GenerateResource.Cache
+D:\Dropbox\AutoType .Net 4.0\AutoType\obj\x86\Debug\AutoType.exe
+D:\Dropbox\AutoType .Net 4.0\AutoType\obj\x86\Debug\AutoType.pdb
+D:\Dropbox\AutoType .Net 2.0\AutoType\obj\x86\Debug\AutoType.csprojResolveAssemblyReference.cache
+D:\Dropbox\AutoType .Net 2.0\AutoType\obj\x86\Debug\AutoType.AutoType.resources
+D:\Dropbox\AutoType .Net 2.0\AutoType\obj\x86\Debug\AutoType.LicenseForm.resources
+D:\Dropbox\AutoType .Net 2.0\AutoType\obj\x86\Debug\AutoType.Properties.Resources.resources
+D:\Dropbox\AutoType .Net 2.0\AutoType\obj\x86\Debug\AutoType.SmartForm.resources
+D:\Dropbox\AutoType .Net 2.0\AutoType\obj\x86\Debug\AutoType.csproj.GenerateResource.Cache
+D:\Dropbox\AutoType .Net 2.0\AutoType\obj\x86\Debug\AutoType.exe
+D:\Dropbox\AutoType .Net 2.0\AutoType\obj\x86\Debug\AutoType.pdb
+D:\Dropbox\AutoType .Net 2.0\AutoType\bin\Debug\AutoType.exe.config
+D:\Dropbox\AutoType .Net 2.0\AutoType\bin\Debug\AutoType.exe
+D:\Dropbox\AutoType .Net 2.0\AutoType\bin\Debug\AutoType.pdb
+D:\Dropbox\AutoType .Net 2.0\AutoType\bin\Debug\Telerik.WinControls.dll
+D:\Dropbox\AutoType .Net 2.0\AutoType\bin\Debug\Telerik.WinControls.UI.dll
+D:\Dropbox\AutoType .Net 2.0\AutoType\bin\Debug\TelerikCommon.dll
+D:\Dropbox\AutoType .Net 2.0\AutoType\bin\Debug\Telerik.WinControls.xml
+D:\Dropbox\AutoType .Net 2.0\AutoType\bin\Debug\Telerik.WinControls.UI.xml
+D:\Dropbox\Autotype Edition\AutoType\bin\Debug\AutoType.exe.config
+D:\Dropbox\Autotype Edition\AutoType\bin\Debug\AutoType.exe
+D:\Dropbox\Autotype Edition\AutoType\bin\Debug\AutoType.pdb
+D:\Dropbox\Autotype Edition\AutoType\bin\Debug\Telerik.WinControls.dll
+D:\Dropbox\Autotype Edition\AutoType\bin\Debug\Telerik.WinControls.UI.dll
+D:\Dropbox\Autotype Edition\AutoType\bin\Debug\TelerikCommon.dll
+D:\Dropbox\Autotype Edition\AutoType\bin\Debug\Telerik.WinControls.xml
+D:\Dropbox\Autotype Edition\AutoType\bin\Debug\Telerik.WinControls.UI.xml
+D:\Dropbox\Autotype Edition\AutoType\obj\x86\Debug\AutoType.csprojResolveAssemblyReference.cache
+D:\Dropbox\Autotype Edition\AutoType\obj\x86\Debug\AutoType.AutoType.resources
+D:\Dropbox\Autotype Edition\AutoType\obj\x86\Debug\AutoType.LicenseForm.resources
+D:\Dropbox\Autotype Edition\AutoType\obj\x86\Debug\AutoType.Properties.Resources.resources
+D:\Dropbox\Autotype Edition\AutoType\obj\x86\Debug\AutoType.SmartForm.resources
+D:\Dropbox\Autotype Edition\AutoType\obj\x86\Debug\AutoType.csproj.GenerateResource.Cache
+D:\Dropbox\Autotype Edition\AutoType\obj\x86\Debug\AutoType.exe
+D:\Dropbox\Autotype Edition\AutoType\obj\x86\Debug\AutoType.pdb
+C:\Users\Thuong Tin\Downloads\Autotype Edition\Autotype Edition\AutoType\bin\Debug\AutoType.exe.config
+C:\Users\Thuong Tin\Downloads\Autotype Edition\Autotype Edition\AutoType\bin\Debug\AutoType.exe
+C:\Users\Thuong Tin\Downloads\Autotype Edition\Autotype Edition\AutoType\bin\Debug\AutoType.pdb
+C:\Users\Thuong Tin\Downloads\Autotype Edition\Autotype Edition\AutoType\obj\x86\Debug\AutoType.AutoType.resources
+C:\Users\Thuong Tin\Downloads\Autotype Edition\Autotype Edition\AutoType\obj\x86\Debug\AutoType.Properties.Resources.resources
+C:\Users\Thuong Tin\Downloads\Autotype Edition\Autotype Edition\AutoType\obj\x86\Debug\AutoType.SmartForm.resources
+C:\Users\Thuong Tin\Downloads\Autotype Edition\Autotype Edition\AutoType\obj\x86\Debug\AutoType.csproj.GenerateResource.cache
+C:\Users\Thuong Tin\Downloads\Autotype Edition\Autotype Edition\AutoType\obj\x86\Debug\AutoType.csproj.CoreCompileInputs.cache
+C:\Users\Thuong Tin\Downloads\Autotype Edition\Autotype Edition\AutoType\obj\x86\Debug\AutoType.csproj.CopyComplete
+C:\Users\Thuong Tin\Downloads\Autotype Edition\Autotype Edition\AutoType\obj\x86\Debug\AutoType.exe
+C:\Users\Thuong Tin\Downloads\Autotype Edition\Autotype Edition\AutoType\obj\x86\Debug\AutoType.pdb
